@@ -2,6 +2,7 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+<<<<<<< HEAD
         <group>
             <file>file:/C:/Users/aaron/Desktop/TallerDS/Taller01-Snake/src/lab1/SnakeModel.java</file>
             <file>file:/C:/Users/aaron/Desktop/TallerDS/Taller01-Snake/src/lab1/GameTile.java</file>
@@ -18,5 +19,19 @@
             <file>file:/C:/Users/aaron/Desktop/TallerDS/Taller01-Snake/src/lab1/RectangularTile.java</file>
             <file>file:/C:/Users/aaron/Desktop/TallerDS/Taller01-Snake/src/lab1/Position.java</file>
         </group>
+=======
+<<<<<<< HEAD
+        <group/>
+=======
+        <group>
+            <file>file:/C:/Users/test1/Desktop/Taller1/Taller01-Snake/src/lab1/Main.java</file>
+            <file>file:/C:/Users/test1/Desktop/Taller1/Taller01-Snake/src/lab1/GUIView.java</file>
+            <file>file:/C:/Users/test1/Desktop/Taller1/Taller01-Snake/src/lab1/GameController.java</file>
+            <file>file:/C:/Users/test1/Desktop/Taller1/Taller01-Snake/src/lab1/GoldModel.java</file>
+            <file>file:/C:/Users/test1/Desktop/Taller1/Taller01-Snake/src/lab1/GameModel.java</file>
+            <file>file:/C:/Users/test1/Desktop/Taller1/Taller01-Snake/src/lab1/GameFactory.java</file>
+        </group>
+>>>>>>> f069313bd5e42024ae671f708d17360dc0279b9b
+>>>>>>> d56a9b8b1d5b254922a0621be064e6f76b81676d
     </open-files>
 </project-private>
